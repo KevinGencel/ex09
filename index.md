@@ -2,6 +2,9 @@
 # Do not edit the text between these lines!
 layout: default
 ---
+## Summary of our analysis
+
+In this assignment, we analysed the COMP 110 sp26 survey dataset to understand students opinion on the class, and we specifically chose to analyse students opinion on the addition of lecture recording/livestreaming options to see which students want the addition most strongly. We analysed the entire datasets rankings, then stratified analysis by major and by year at UNC. The specific results can be found below, and below it the conclusion of our analysis.
 
 # Ex09 Analysis of Lecture Recording 
 
